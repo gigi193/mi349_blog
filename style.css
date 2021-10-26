@@ -1,0 +1,46 @@
+html {
+    background:lavenderblush;
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 40px;
+    padding: 40px;
+    color:darkslategrey;
+    border-top:10px solid hotpink;
+    background: lavender;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+p {
+    line-height: 1.4em;
+    width: 200px;
+}
+
+#blog {
+    border-top:lightskyblue 1px dotted;
+}
+
+.blog-post {
+    border-bottom:lightskyblue 1px dotted; 
+}
+
+article {
+    border-bottom:midnightblue 1px solid;
+}
+
+form {
+    background-color: plum;
+}
+
+li {
+    color:navy;
+}
+
+.button {
+    background-color:palegreen;
+}
