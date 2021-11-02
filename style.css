@@ -44,3 +44,20 @@ li {
 .button {
     background-color:palegreen;
 }
+
+.sticky {
+    background:deeppink;
+    position: sticky;
+    top: 0;
+}
+
+.img-container {
+    background: mediumturquoise;
+    height: 50px;
+}
+
+article {
+    background:mistyrose;
+    padding: 20px;
+    margin: 20px;
+}
