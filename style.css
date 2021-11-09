@@ -61,3 +61,22 @@ article {
     padding: 20px;
     margin: 20px;
 }
+
+.card {
+    background:crimson;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.card {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100px 100px;
+    grid-gap:100px;
+}
+
+@media (max-width: 400px){
+    #c1{
+        background:cyan;
+    }
+}
